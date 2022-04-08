@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\C#-Basic-OOP\C-Sharp-Basic-OOP\Collections\ArrayList\bin\Debug\ArrayList.exe.config
+C:\Users\Jack\source\repos\C#-Basic-OOP\C-Sharp-Basic-OOP\Collections\ArrayList\bin\Debug\ArrayList.exe
+C:\Users\Jack\source\repos\C#-Basic-OOP\C-Sharp-Basic-OOP\Collections\ArrayList\bin\Debug\ArrayList.pdb
+C:\Users\Jack\source\repos\C#-Basic-OOP\C-Sharp-Basic-OOP\Collections\ArrayList\obj\Debug\ArrayList.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\C#-Basic-OOP\C-Sharp-Basic-OOP\Collections\ArrayList\obj\Debug\ArrayList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\C#-Basic-OOP\C-Sharp-Basic-OOP\Collections\ArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\C#-Basic-OOP\C-Sharp-Basic-OOP\Collections\ArrayList\obj\Debug\ArrayList.exe
+C:\Users\Jack\source\repos\C#-Basic-OOP\C-Sharp-Basic-OOP\Collections\ArrayList\obj\Debug\ArrayList.pdb
